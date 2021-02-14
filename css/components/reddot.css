@@ -1,0 +1,13 @@
+.reddot {
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  background-color: tomato;
+  position: absolute;
+  bottom: 18px;
+  left: 85px;
+}
+
+.screen-header__icons:last-child {
+  position: relative;
+}
